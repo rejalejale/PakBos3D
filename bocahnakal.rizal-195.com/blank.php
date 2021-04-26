@@ -44,18 +44,18 @@
                  
 
  <li >
-                        <a href="index.html" ><i class="fa fa-desktop "></i>Dashboard <span class="badge">Included</span></a>
+                        <a href="index.php" ><i class="fa fa-desktop "></i>Dashboard <span class="badge">Included</span></a>
                     </li>
 
                  <li>
-                        <a href="#"><i class="fa fa-twitter "></i>Twitter</a>
+                        <a href="twitter.com"><i class="fa fa-twitter "></i>Twitter</a>
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-instagram"></i>Instagram</a>
+                        <a href="instagram.com"><i class="fa fa-instagram"></i>Instagram</a>
                     </li>
 
                     <li>
-                        <a href="#"><i class="fa fa-facebook "></i>Facebook </a>
+                        <a href="facebook.com"><i class="fa fa-facebook "></i>Facebook </a>
                     </li>
                     
                 </ul>

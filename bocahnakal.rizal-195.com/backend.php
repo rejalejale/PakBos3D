@@ -34,7 +34,7 @@
                 </div>
               
                 <span class="logout-spn" >
-                  <a href="index.html" style="color:#fff;">LOGOUT</a>  
+                  <a href="index.php" style="color:#fff;">LOGOUT</a>  
 
                 </span>
             </div>
@@ -47,7 +47,7 @@
 
 
                     <li class="active-link">
-                        <a href="index.html" ><i class="fa fa-desktop "></i>Dashboard <span class="badge">Included</span></a>
+                        <a href="index.php" ><i class="fa fa-desktop "></i>Dashboard <span class="badge">Included</span></a>
                     </li>
 
 

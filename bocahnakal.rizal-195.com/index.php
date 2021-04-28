@@ -84,7 +84,7 @@
                             
                          
                              <div class="form-group">
-                                 <button type="submit" class="btn btn-primary btn-3x"><a href="backend.php">Login as Admin</a> <span> <i class="fa fa-angle-double-right"></i> </span></button>
+                                 <a href="backend.php"><button type="submit" class="btn btn-primary btn-3x"><a href="backend.php">Login as Admin</a> <span> <i class="fa fa-angle-double-right"></i> </span></button></a>
                              </div>
                          </form>
                        </div>
@@ -240,7 +240,7 @@
                             <div class="col-md-12">
                                 <div class="social-icons wow slideInDown">
                                     <ul class="list-unstyled">
-                                        <li><a href="www.facebook.com"><i class="fa fa-facebook fa-3x"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-facebook fa-3x"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter fa-3x"></i></a></li>
                                         <li><a href="#"><i class="fa fa-google-plus fa-3x"></i></a></li>
                                         <li><a href="#"><i class="fa fa-instagram fa-3x"></i></a></li>

@@ -84,7 +84,7 @@
                             
                          
                              <div class="form-group">
-                                 <button type="submit" onclick="location.href='https://google.com';" class="btn btn-primary btn-3x"><a href="backend.php">Login as Admin</a> <span> <i class="fa fa-angle-double-right"></i> </span></button>
+                                 <button type="submit" class="btn btn-primary btn-3x"><a href="backend.php">Login as Admin</a> <span> <i class="fa fa-angle-double-right"></i> </span></button>
                                  </div>
                          </form>
                        </div>

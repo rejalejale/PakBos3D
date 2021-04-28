@@ -45,15 +45,15 @@
 
 
                      <li> 
-                        <a href="index.html" ><i class="fa fa-desktop "></i>Dashboard <span class="badge">Included</span></a>
+                        <a href="index.php" ><i class="fa fa-desktop "></i>Dashboard <span class="badge">Included</span></a>
                     </li>
                    
 
                     <li class="active-link">
-                        <a href="ui.html"><i class="fa fa-table "></i>UI Elements  <span class="badge">Included</span></a>
+                        <a href="ui.php"><i class="fa fa-table "></i>UI Elements  <span class="badge">Included</span></a>
                     </li>
                     <li>
-                        <a href="blank.html"><i class="fa fa-edit "></i>Blank Page  <span class="badge">Included</span></a>
+                        <a href="blank.php"><i class="fa fa-edit "></i>Blank Page  <span class="badge">Included</span></a>
                     </li>
 
 
@@ -146,7 +146,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4">
                         <label>Click to see blank page</label>
-                        <a href="blank.html" target="_blank" class="btn btn-danger btn-lg btn-block">BLANK PAGE</a>
+                        <a href="blank.php" target="_blank" class="btn btn-danger btn-lg btn-block">BLANK PAGE</a>
                     </div>
                     <div class="col-lg-4 col-md-4">
                         For More Examples Please visit official bootstrap website <a href="http://getbootstrap.com" target="_blank">getbootstrap.com</a>
@@ -363,7 +363,7 @@
     
              <div class="row">
                 <div class="col-lg-12" >
-                    &copy;  2014 yourdomain.com | Design by: <a href="http://binarytheme.com" style="color:#fff;"  target="_blank">www.binarytheme.com</a>
+                    &copy;  2021 PakBos3D.ID | Design by: <a href="#" style="color:#fff;"  target="_blank">Beautiful Boy</a>
                 </div>
         </div>
         </div>

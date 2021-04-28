@@ -84,7 +84,7 @@
     
              <div class="row">
                 <div class="col-lg-12" >
-                    &copy;  2014 yourdomain.com | Design by: <a href="http://binarytheme.com" style="color:#fff;"  target="_blank">www.binarytheme.com</a>
+                    &copy;  2021 PakBos3D.ID | Design by: <a href="http://binarytheme.com" style="color:#fff;"  target="_blank">Beautiful Boy</a>
                 </div>
         </div>
         </div>

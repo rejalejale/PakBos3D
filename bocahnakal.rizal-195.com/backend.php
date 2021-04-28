@@ -52,14 +52,14 @@
 
 
                     <li>
-                        <a href="twitter.com"><i class="fa fa-twitter "></i>Twitter</a>
+                        <a href="#"><i class="fa fa-twitter "></i>Twitter</a>
                     </li>
                     <li>
-                        <a href="instagram.com"><i class="fa fa-instagram"></i>Instagram</a>
+                        <a href="#"><i class="fa fa-instagram"></i>Instagram</a>
                     </li>
 
                     <li>
-                        <a href="facebook.com"><i class="fa fa-facebook "></i>Facebook </a>
+                        <a href="#"><i class="fa fa-facebook "></i>Facebook </a>
                     </li>
                     
                 </ul>
